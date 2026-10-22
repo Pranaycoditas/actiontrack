@@ -1,0 +1,96 @@
+ID        STATUS   OWNER              DUE         TASK                                                 SOURCE
+55b0cd4f  overdue  Rahul Mehta        2026-09-03  open the repo access request                         2026-09-02-standup.md
+917d6498  overdue  Rahul Verma        2026-09-07  review the schema mapping doc                        2026-09-17-billing-migration-sync.md (+1)
+b7dad6aa  done     Rahul Mehta        2026-09-08  set up the staging environment                       2026-09-08-quote-portal-weekly.md (+1)
+975c5caf  overdue  Rahul Mehta        2026-09-09  finish login screen                                  2026-09-08-quote-portal-weekly.md
+86f0e1bf  done     Karan Joshi        2026-09-10  export last quarter invoices                         2026-09-17-billing-migration-sync.md (+1)
+4eef28d1  overdue  Priya Shah         2026-09-11  draft the test plan for invoice rounding             2026-09-03-billing-migration-sync.md
+95138a3f  overdue  Karan Joshi        2026-09-11  send the vendor invoice list                         2026-09-09-qa-standup.md
+018c4e98  overdue  Lena Fischer       2026-09-11  pull Acme's usage report for the last 6 months       2026-09-10-acme-renewal-prep.md
+cfc90787  done     Priya Nair         2026-09-11  send the revised quote to Acme                       2026-09-15-quote-portal-weekly.md (+2)
+1e148458  overdue  Karan Joshi        2026-09-14  confirm discount ceiling with the CFO                2026-09-10-acme-renewal-prep.md
+b8e8b54b  overdue  Meera Iyer         2026-09-18  update the pipeline sheet                            2026-09-16-standup.md
+b48cced6  done     Sam Okafor         2026-09-18  confirm cloud budget with finance                    2026-09-22-quote-portal-weekly.md (+2)
+8f85805b  done     Priya Shah         2026-09-18  write acceptance tests for the signup flow           2026-09-24-onboarding-flow-design.md (+1)
+1dc76e78  overdue  Lena Fischer       2026-09-21  draft the case study outline                         2026-09-16-standup.md
+c26a70d4  overdue  Ambiguous (Priya)  2026-09-21  sign off the cutover checklist                       2026-09-17-billing-migration-sync.md
+952b6e69  overdue  Anita Desai        2026-09-21  audit colour contrast on the dashboard               2026-09-18-design-review.md
+e7797704  overdue  Sam Okafor         2026-09-22  run the dry-run migration on staging                 2026-09-17-billing-migration-sync.md
+06a5e149  overdue  Sam Okafor         2026-09-22  write the postmortem                                 2026-09-21-incident-review.md
+09d83582  overdue  Anita Desai        2026-09-23  agree on the component API                           2026-09-18-design-review.md
+aa937f1b  overdue  Rahul Mehta        2026-09-23  fix the pagination bug                               2026-09-22-quote-portal-weekly.md (+1)
+078fc864  overdue  Anita Desai        2026-09-24  share updated wireframes                             2026-09-22-quote-portal-weekly.md (+2)
+27288e6b  overdue  Ambiguous (Rahul)  2026-09-24  rebase the feature branch                            2026-09-23-standup.md
+a65b4078  overdue  Lena Fischer       2026-09-25  collect user feedback on the prototype               2026-09-18-design-review.md
+3d603565  overdue  Priya Shah         2026-09-25  add a regression test for double charge              2026-09-21-incident-review.md
+75bf6128  overdue  Rahul Verma        2026-09-25  add idempotency keys to the payment call             2026-09-21-incident-review.md
+02530cf1  done     Meera Iyer         2026-09-25  send Acme the procurement form                       2026-10-01-quote-portal-weekly.md (+1)
+4f03486d  done     Anita Desai        2026-09-25  finalise the welcome-email copy                      2026-10-05-onboarding-retro.md (+2)
+23a0c66d  overdue  Priya Shah         2026-09-28  triage the open bug list                             2026-09-25-qa-sync.md
+20a54774  done     Meera Iyer         2026-09-30  book the renewal call with Acme's CTO                2026-10-14-acme-renewal-wrapup.md (+2)
+8ca18ec5  overdue  Karan Joshi        2026-10-01  send Acme the revised pricing sheet                  2026-09-28-acme-renewal-checkin.md
+d33224c0  overdue  Priya Shah         2026-10-01  run the invoice rounding tests                       2026-09-29-billing-cutover-planning.md
+fc0a7355  overdue  Karan Joshi        2026-10-01  circulate the offsite summary                        2026-09-30-q4-offsite.md
+ad737036  overdue  Lena Fischer       2026-10-02  collect 5 customer quotes for the landing page       2026-09-24-onboarding-flow-design.md (+1)
+677e88c1  overdue  Rahul Verma        2026-10-02  fix the top three critical bugs                      2026-09-25-qa-sync.md
+21a4d7ed  overdue  Priya Nair         2026-10-02  share the Q4 roadmap draft                           2026-09-30-standup.md
+535f5f4b  overdue  Ambiguous (Rahul)  2026-10-02  prepare the architecture overview                    2026-09-30-q4-offsite.md
+10bfe3fc  done     Karan Joshi        2026-10-02  approve the Q4 cloud spend                           2026-10-02-finance-sync.md (+1)
+98ddc7ca  overdue  Priya Nair         2026-10-02  prepare the renewal one-pager                        2026-10-14-acme-renewal-wrapup.md (+1)
+41d86c99  overdue  Meera Iyer         2026-10-03  finalise the Q4 sales targets                        2026-09-30-q4-offsite.md
+89f8b899  overdue  Karan Joshi        2026-10-05  validate targets against the budget                  2026-09-30-q4-offsite.md
+11652396  done     Priya Nair         2026-10-05  notify customers about the maintenance window        2026-10-08-billing-go-no-go.md (+1)
+045f2b64  overdue  Anita Desai        2026-10-06  hand over final designs to dev                       2026-10-01-quote-portal-weekly.md
+d1a0c730  overdue  Unassigned         2026-10-07  submit their Q4 goals                                2026-09-30-q4-offsite.md
+3c2e820f  overdue  Meera Iyer         2026-10-07  share the Q4 pipeline forecast                       2026-10-02-finance-sync.md
+25d39869  done     Rahul Mehta        2026-10-07  deploy the beta to staging                           2026-10-13-quote-portal-weekly.md (+2)
+30b5ca0f  overdue  Priya Nair         2026-10-08  write the beta test checklist                        2026-10-06-quote-portal-weekly.md
+e3e1cf16  overdue  Ambiguous (Rahul)  2026-10-08  review Anita's PR                                    2026-10-07-standup.md
+58cb2392  overdue  Ambiguous (Priya)  2026-10-08  circulate the go/no-go summary                       2026-10-08-billing-go-no-go.md
+d7458ea5  overdue  Anita Desai        2026-10-09  Refresh the brand kit                                2026-09-30-q4-offsite.md
+bd7ce233  overdue  Sam Okafor         2026-10-09  cut cloud costs by 10% — proposal                    2026-10-02-finance-sync.md
+f5df224f  overdue  Meera Iyer         2026-10-09  chase Orbit Labs                                     2026-10-03-sales-pipeline.md
+e073814f  overdue  Lena Fischer       2026-10-09  publish the customer quotes                          2026-10-05-onboarding-retro.md
+aa59c7a0  overdue  Sam Okafor         2026-10-09  confirm rollback plan                                2026-10-08-billing-go-no-go.md
+753526db  overdue  Lena Fischer       2026-10-10  log the three new leads in CRM                       2026-10-10-sales-weekly.md
+70bcba08  overdue  Karan Joshi        2026-10-12  prepare the board finance slide                      2026-10-02-finance-sync.md
+55f2fdd5  overdue  Rahul Verma        2026-10-12  patch the outdated express dependency                2026-10-09-security-review.md
+82a5d081  overdue  Rahul Verma        2026-10-13  start SSO spike                                      2026-10-05-onboarding-retro.md (+2)
+17d617cc  overdue  Meera Iyer         2026-10-13  send the proposal to Orbit Labs                      2026-10-10-sales-weekly.md
+2397d3c0  overdue  Priya Shah         2026-10-14  verify invoice totals for the first 50 invoices      2026-10-12-billing-post-cutover.md
+87972b27  overdue  Sam Okafor         2026-10-15  propose the on-call rotation                         2026-09-30-q4-offsite.md
+98ff3c2f  overdue  Lena Fischer       2026-10-15  run the customer survey, results                     2026-09-30-q4-offsite.md
+7f545173  overdue  Karan Joshi        2026-10-15  reconcile September ledger                           2026-10-12-billing-post-cutover.md
+5e596c1c  overdue  Karan Joshi        2026-10-15  send the final contract to legal                     2026-10-14-acme-renewal-wrapup.md
+0f83fa90  overdue  Sam Okafor         2026-10-16  enable MFA on all admin accounts                     2026-10-09-security-review.md
+2d49bb04  overdue  Anita Desai        2026-10-16  fix spacing issues flagged in review                 2026-10-13-quote-portal-weekly.md
+0326c25f  overdue  Priya Nair         2026-10-20  collect beta feedback from Acme                      2026-10-13-quote-portal-weekly.md
+cb1d393c  open     Priya Shah         2026-10-23  document the incident response steps                 2026-10-09-security-review.md
+2e3b23db  open     Sam Okafor         2026-10-30  decommission the old billing DB                      2026-10-12-billing-post-cutover.md
+308ec78f  open     Sam Okafor         -           chase the vendor                                     untitled.md
+c3c39081  open     Ambiguous (Priya)  -           send the slides                                      untitled.md
+164dd2d3  open     Sam Okafor         -           share the VPN guide                                  2026-09-02-standup.md
+2887ceaf  open     Sam Okafor         -           snapshot the production DB                           2026-09-03-billing-migration-sync.md
+a45eac72  open     Meera Iyer         -           ask Acme for their procurement contact               2026-09-08-quote-portal-weekly.md
+70d22230  open     Priya Shah         -           set up the test data                                 2026-09-09-qa-standup.md
+76001e5e  open     Unassigned         -           update the CRM notes                                 2026-09-10-acme-renewal-prep.md
+619532cc  open     Unassigned         -           review the prototype before the next review          2026-09-18-design-review.md
+9d4184cd  open     Unassigned         -           write the design-system changelog                    2026-09-18-design-review.md
+3d133738  open     Karan Joshi        -           refund affected customers                            2026-09-21-incident-review.md
+050a651b  open     Sam Okafor         -           rotate the staging credentials                       2026-09-23-standup.md
+70d5ed51  open     Lena Fischer       -           share the usage report with Meera                    2026-09-28-acme-renewal-checkin.md
+3b8fac5f  open     Sam Okafor         -           schedule cutover for Saturday 10 Oct                 2026-09-29-billing-cutover-planning.md
+81e83598  open     Ambiguous (Priya)  -           own the hiring plan for the two QA roles             2026-09-30-q4-offsite.md
+d944959c  open     Unassigned         -           decide on the launch date                            2026-10-01-quote-portal-weekly.md
+bb23235e  open     Lena Fischer       -           clean up duplicate leads                             2026-10-03-sales-pipeline.md
+8d1919a6  open     Priya Shah         -           review the welcome email for accessibility           2026-10-05-onboarding-retro.md
+2b0371eb  open     Meera Iyer         -           demo the portal to Acme on 2026-10-14                2026-10-06-quote-portal-weekly.md
+c80dc93e  open     Sam Okafor         -           set up uptime monitoring                             2026-10-06-quote-portal-weekly.md
+c10f2e68  open     Anita Desai        -           update the style guide                               2026-10-07-standup.md
+03c4ada5  open     Karan Joshi        -           freeze invoice edits from 9 Oct                      2026-10-08-billing-go-no-go.md (+1)
+27886280  done     Karan Joshi        -           revoke access for the two ex-contractors             2026-10-09-security-review.md
+0f995486  done     Lena Fischer       -           update the Acme account notes                        2026-10-10-sales-weekly.md
+240645fe  open     Rahul Verma        -           write the migration runbook                          2026-10-12-billing-post-cutover.md
+3fa2a4e7  open     Meera Iyer         -           follow up on the demo                                2026-10-13-quote-portal-weekly.md
+978f1d67  open     Lena Fischer       -           schedule the quarterly business review for November  2026-10-14-acme-renewal-wrapup.md
+94 items
